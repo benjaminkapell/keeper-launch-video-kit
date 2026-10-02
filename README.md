@@ -2,7 +2,7 @@
 
 Everything needed to cut the Keeper launch video: brand, mascot, screenshots, imagery and clips.
 
-**Start here:** [`VIDEO-BRIEF.md`](VIDEO-BRIEF.md) for the story, the lines and what not to show. Then [`BRAND.md`](BRAND.md) for colours, fonts and Keevy.
+**Start here:** [`COMPANY.md`](COMPANY.md) for what Keeper does, the website pages to read and what to watch for when scraping them. Then [`VIDEO-BRIEF.md`](VIDEO-BRIEF.md) for the story, the lines and what not to show. After that, [`BRAND.md`](BRAND.md) for colours, fonts and Keevy.
 
 ## What's inside
 
