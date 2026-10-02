@@ -6,7 +6,7 @@ Source of truth: the live site, [keeperlockers.com](https://www.keeperlockers.co
 
 - Brand: **Keeper**. Write it like that in titles and supers.
 - Company (legal lines only): Keeper Lockers UG (haftungsbeschränkt). Never "GmbH".
-- Mascot: **Keevy**, the little suitcase.
+- Mascot: **Keevy**, the little suitcase. Keevy is the character, not the logo.
 - Claim: **Explore Your Freedom**
 - Domain: keeperlockers.com
 
@@ -42,19 +42,26 @@ Both are free (SIL Open Font License). Variable TTFs are in `brand/fonts/` — i
 
 ## Logo
 
-The logo is **Keevy + the word "Keeper"** set in Bricolage Grotesque ExtraBold. Coral on light backgrounds, white over photos and the gradient, ink where coral doesn't work.
+The logo is the **arch-and-path symbol + the word "Keeper"** set in Bricolage Grotesque ExtraBold. The symbol is the one the main splash (`video/MAIN-splash-1080x1920.mp4`) builds: an orange arch with a dot, over a teal hill with a white winding path.
 
 | File | Use |
 |---|---|
-| `brand/logo/png/keeper-lockup-3d-{coral,white,ink}.png` | The main logo: 3D Keevy + wordmark, transparent, ~3900px wide |
-| `brand/logo/png/keeper-wordmark-{coral,white,ink}.png` | Wordmark alone, transparent |
-| `brand/logo/svg/keeper-wordmark-{coral,white,ink}.svg` | Wordmark as true vector outlines — scales to any size, no font needed |
-| `brand/logo/svg/keeper-lockup-{coral,white,ink}.svg` | Fully vector lockup with a flat Keevy icon |
-| `brand/logo/svg/keevy-icon-flat.svg` | Flat vector Keevy for very small sizes |
+| `keeper-lockup-horizontal-color-ink` | Main logo on light backgrounds |
+| `keeper-lockup-horizontal-color-white` | Colour symbol, white wordmark — dark backgrounds |
+| `keeper-lockup-horizontal-white` / `-ink` | One-colour versions — over photos, the gradient, or anywhere colour fights |
+| `keeper-lockup-stacked-*` | Same four, symbol above the wordmark |
+| `keeper-symbol-color` / `-white` / `-ink` | Symbol alone |
+| `keeper-wordmark-ink` / `-white` / `-coral` | Wordmark alone |
 
-The flat Keevy is a simplified stand-in drawn for this kit. Prefer the 3D Keevy wherever there is room.
+Every file exists as vector in `brand/logo/svg/` and as a transparent PNG in `brand/logo/png/`.
 
-Ready-made end cards (4K, vertical and horizontal, cream and gradient) are in `end-cards/`, with empty backgrounds in `end-cards/background-only/` for animating the pieces yourself.
+Logo colours: arch `#FD7A35` → `#FEA33D`, hill `#077072` → `#0CA3A0`, path white. On the coral gradient use the white one-colour version — the orange arch disappears into it.
+
+The symbol was traced from the last frame of the splash video, so edges are close but not designer-exact. If an original vector of the symbol turns up, it should replace these.
+
+`brand/logo/current-website-icons/` holds the Keevy favicon and share image the website still uses. Don't use them as the logo.
+
+Ready-made end cards (4K, vertical and horizontal, cream and gradient) are in `end-cards/`, with empty backgrounds in `end-cards/background-only/`. The cream card uses the splash's background colour (`#FCF4EC`), so the splash can cut straight into it.
 
 ## Keevy
 

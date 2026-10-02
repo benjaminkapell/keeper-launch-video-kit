@@ -9,7 +9,7 @@ Everything needed to cut the Keeper launch video: brand, mascot, screenshots, im
 | Folder | Contents |
 |---|---|
 | `brand/` | Palette, colour values, fonts (TTF), icons |
-| `brand/logo/` | Logo: 3D lockups (PNG), vector wordmark and flat lockups (SVG) |
+| `brand/logo/` | Logo: arch-and-path symbol, wordmark and lockups, as SVG and transparent PNG |
 | `end-cards/` | Finished 4K end cards, 9:16 and 16:9, cream and gradient |
 | `brand/mascot-keevy/poses/` | 26 transparent Keevy poses and bag-size icons (~600px) |
 | `brand/mascot-keevy/hi-res/` | Four hero poses at ~2700px on transparent backgrounds, plus larger renders with backgrounds |

@@ -12,7 +12,7 @@ The moment your hands are free. Checkout was at 11, the train is at 9pm, and the
 
 ## The main splash
 
-`video/MAIN-splash-1080x1920.mp4` is the main splash animation (5s, vertical, 1080×1920, with sound): a teal hill with a winding path rises, then an orange arch settles on top, on cream. Ben wants this one used. It works as the opening sting or the closing logo moment. A still of the last frame is next to it. The older splash in `video/superseded/` is retired.
+`video/MAIN-splash-1080x1920.mp4` is the main splash animation (5s, vertical, 1080×1920, with sound): a teal hill with a winding path rises, then an orange arch settles on top, on cream. Ben wants this one used. The symbol it builds is the Keeper logo. It works as the opening sting or the closing logo moment, and cuts cleanly into the cream end card. A still of the last frame is next to it. The older splash in `video/superseded/` is retired.
 
 ## One possible arc (30–45s)
 
@@ -21,7 +21,7 @@ The moment your hands are free. Checkout was at 11, the train is at 9pm, and the
 3. **The drop.** A locker with the warm gradient, one door opens, bag goes in, door closes. Phone shows it locked.
 4. **The meter.** A timer ticking, "3c a minute". Then the cap: "Never more than €6 a day."
 5. **The freedom.** Golden-hour city, empty hands, friends, bikes (`imagery/lifestyle/`). Keevy waving.
-6. **End card.** Ready-made in `end-cards/`. Keevy + **Keeper** · "Explore Your Freedom" · "Starting in Berlin" · keeperlockers.com
+6. **End card.** Ready-made in `end-cards/`. Symbol + **Keeper** · "Explore Your Freedom" · "Starting in Berlin" · keeperlockers.com
 
 ## Lines you can use
 
