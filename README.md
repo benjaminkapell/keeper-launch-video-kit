@@ -9,8 +9,10 @@ Everything needed to cut the Keeper launch video: brand, mascot, screenshots, im
 | Folder | Contents |
 |---|---|
 | `brand/` | Palette, colour values, fonts (TTF), icons |
+| `brand/logo/` | Logo: 3D lockups (PNG), vector wordmark and flat lockups (SVG) |
+| `end-cards/` | Finished 4K end cards, 9:16 and 16:9, cream and gradient |
 | `brand/mascot-keevy/poses/` | 26 transparent Keevy poses and bag-size icons (~600px) |
-| `brand/mascot-keevy/hi-res/` | Larger Keevy renders (up to 2400px), some with backgrounds |
+| `brand/mascot-keevy/hi-res/` | Four hero poses at ~2700px on transparent backgrounds, plus larger renders with backgrounds |
 | `brand/mascot-keevy/badges/` | 6 in-app achievement badges |
 | `screenshots/website-desktop/` | Live site, 3840×2160, captured 2 Oct 2026 |
 | `screenshots/website-mobile/` | Live site, 1170×2532 |
@@ -19,6 +21,7 @@ Everything needed to cut the Keeper launch video: brand, mascot, screenshots, im
 | `screenshots/partner-dashboard-demo/` | Partner dashboard with made-up demo data |
 | `imagery/hands-phone/` | Keevy's hand holding a phone: timer, unlock, map, security |
 | `imagery/lockers-ai-illustration/` | Locker scenes. **All AI-generated — see the brief** |
+| `imagery/lifestyle-berlin-vertical/` | 9:16 Berlin shots: Brandenburg Gate, Spree, bike, and a "before" suitcase-drag. **AI-generated** |
 | `imagery/lifestyle/` | Golden-hour, hands-free travel mood shots |
 | `imagery/travel-stickers/` | Passport stamps, boarding pass, luggage tag (transparent) |
 | `video/` | Keevy mountain loop, app splash, Keevy laughing, locker turnover animation |

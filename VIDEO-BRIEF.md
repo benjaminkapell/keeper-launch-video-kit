@@ -17,7 +17,7 @@ The moment your hands are free. Checkout was at 11, the train is at 9pm, and the
 3. **The drop.** A locker with the warm gradient, one door opens, bag goes in, door closes. Phone shows it locked.
 4. **The meter.** A timer ticking, "3c a minute". Then the cap: "Never more than €6 a day."
 5. **The freedom.** Golden-hour city, empty hands, friends, bikes (`imagery/lifestyle/`). Keevy waving.
-6. **End card.** Keevy + **Keeper** · "Explore Your Freedom" · "Starting in Berlin" · keeperlockers.com
+6. **End card.** Ready-made in `end-cards/`. Keevy + **Keeper** · "Explore Your Freedom" · "Starting in Berlin" · keeperlockers.com
 
 ## Lines you can use
 
@@ -65,7 +65,7 @@ These are either not true yet or not confirmed. Ask Ben before using any of them
 
 Every locker photo in `imagery/lockers-ai-illustration/` is **AI-generated**. On the website these carry a visible "Illustration · AI-generated" label, because showing an installation that does not exist as if it were real is a legal problem in Germany (misleading advertising) and under the EU AI Act. If the video uses them, or generates new ones, keep a small on-screen label or make them clearly stylised. Ben will confirm what real locker footage exists — real footage always beats these.
 
-The lifestyle photos in `imagery/lifestyle/` are, as far as we know, also AI-generated. Fine as mood and B-roll; Ben to confirm before they carry the video.
+The photos in `imagery/lifestyle-berlin-vertical/` are AI-generated, and those in `imagery/lifestyle/` are, as far as we know, too. Fine as mood and B-roll; Ben to confirm before they carry the video.
 
 ## Formats
 
