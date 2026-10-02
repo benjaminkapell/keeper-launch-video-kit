@@ -1,0 +1,11 @@
+/* Keeper brand colours — source: keeper-website-real (tailwind.config.ts, src/index.css) */
+:root {
+  --keeper-coral:    #FF6B4A;  /* primary */
+  --keeper-orange:   #FF8C42;
+  --keeper-marigold: #FFB347;
+  --keeper-teal:     #4ECDC4;  /* the only cool accent — use sparingly */
+  --keeper-cream:    #FFF8F5;  /* light background */
+  --keeper-ink:      #1A1A1A;  /* text / dark background */
+  --keeper-muted:    #6B6B6B;  /* secondary text */
+  --keeper-gradient: linear-gradient(135deg, #FF6B4A 0%, #FF8C42 50%, #FFB347 100%);
+}
