@@ -24,7 +24,7 @@ Everything needed to cut the Keeper launch video: brand, mascot, screenshots, im
 | `imagery/lifestyle-berlin-vertical/` | 9:16 Berlin shots: Brandenburg Gate, Spree, bike, and a "before" suitcase-drag. **AI-generated** |
 | `imagery/lifestyle/` | Golden-hour, hands-free travel mood shots |
 | `imagery/travel-stickers/` | Passport stamps, boarding pass, luggage tag (transparent) |
-| `video/` | Keevy mountain loop, app splash, Keevy laughing, locker turnover animation |
+| `video/` | **`MAIN-splash-1080x1920.mp4` — the main splash, use this one.** Also: Keevy mountain loop, Keevy laughing, locker turnover animation. `superseded/` holds the old splash — don't use it |
 
 ## Quick reference
 

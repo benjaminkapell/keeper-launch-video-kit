@@ -10,6 +10,10 @@ Smart luggage lockers in the places you are already standing when your bag becom
 
 The moment your hands are free. Checkout was at 11, the train is at 9pm, and the city is right there. The video should make people feel the weight come off.
 
+## The main splash
+
+`video/MAIN-splash-1080x1920.mp4` is the main splash animation (5s, vertical, 1080×1920, with sound): a teal hill with a winding path rises, then an orange arch settles on top, on cream. Ben wants this one used. It works as the opening sting or the closing logo moment. A still of the last frame is next to it. The older splash in `video/superseded/` is retired.
+
 ## One possible arc (30–45s)
 
 1. **The drag.** A suitcase bumping over cobblestones. Keevy struggling with a heavy case (`keevy-struggle`). "Check-out at 11. Train at 9."
