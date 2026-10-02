@@ -29,7 +29,25 @@ Source of truth: the live site, [keeperlockers.com](https://www.keeperlockers.co
 
 Keevy's own body runs warm orange at the top to teal-blue at the bottom. That is why teal belongs in the palette. The lockers in the illustrations carry the same top-to-bottom fade.
 
-Machine-readable copy: `brand/colors.css`.
+### Logo, splash and end cards
+
+| Name | Hex | Use |
+|---|---|---|
+| Arch orange (left) | `#FD7A35` | Logo arch and dot, start of gradient |
+| Arch orange (right) | `#FEA33D` | Logo arch, end of gradient |
+| Hill teal (left) | `#077072` | Logo hill, start of gradient |
+| Hill teal (mid) | `#079A97` | Logo hill, middle |
+| Hill teal (right) | `#0CA3A0` | Logo hill, end of gradient |
+| Path white | `#FFFFFF` | Logo path, white logo versions |
+| Splash cream | `#FCF4EC` | Background of the splash video and the cream end card |
+| Splash cream light | `#FFF9F3` | Centre glow on the cream end card |
+| Pill orange | `#F26A2E` | "Starting in Berlin" pill on the end cards |
+
+The logo colours were sampled from the splash video, so they may be a shade off whatever the symbol was designed with.
+
+There are two teals: the logo's deep teal (`#077072`–`#0CA3A0`) and the website's light accent teal (`#4ECDC4`). Use the deep one with the logo.
+
+Every hex above is also in `brand/colors.css` and `brand/colors.json`.
 
 ## Type
 

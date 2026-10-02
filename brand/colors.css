@@ -1,11 +1,28 @@
-/* Keeper brand colours — source: keeper-website-real (tailwind.config.ts, src/index.css) */
+/* Keeper colours — every hex used in this kit, in one place. */
 :root {
+  /* Brand palette (website: tailwind.config.ts, src/index.css) */
   --keeper-coral:    #FF6B4A;  /* primary */
   --keeper-orange:   #FF8C42;
   --keeper-marigold: #FFB347;
-  --keeper-teal:     #4ECDC4;  /* the only cool accent — use sparingly */
-  --keeper-cream:    #FFF8F5;  /* light background */
+  --keeper-teal:     #4ECDC4;  /* light accent teal */
+  --keeper-cream:    #FFF8F5;  /* website light background */
   --keeper-ink:      #1A1A1A;  /* text / dark background */
   --keeper-muted:    #6B6B6B;  /* secondary text */
+  --keeper-white:    #FFFFFF;
   --keeper-gradient: linear-gradient(135deg, #FF6B4A 0%, #FF8C42 50%, #FFB347 100%);
+
+  /* Logo symbol (sampled from the main splash video) */
+  --logo-arch-start: #FD7A35;  /* arch + dot, left */
+  --logo-arch-end:   #FEA33D;  /* arch, right */
+  --logo-hill-start: #077072;  /* hill, left */
+  --logo-hill-mid:   #079A97;
+  --logo-hill-end:   #0CA3A0;  /* hill, right */
+  --logo-path:       #FFFFFF;
+  --logo-arch-gradient: linear-gradient(90deg, #FD7A35 0%, #FEA33D 100%);
+  --logo-hill-gradient: linear-gradient(90deg, #077072 0%, #079A97 55%, #0CA3A0 100%);
+
+  /* Splash and end cards */
+  --splash-cream:       #FCF4EC;  /* splash video background; cream end card edge */
+  --splash-cream-light: #FFF9F3;  /* cream end card centre glow */
+  --pill-orange:        #F26A2E;  /* "Starting in Berlin" pill text and dot */
 }

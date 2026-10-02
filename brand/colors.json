@@ -1,0 +1,23 @@
+{
+  "brand": {
+    "coral": "#FF6B4A",
+    "orange": "#FF8C42",
+    "marigold": "#FFB347",
+    "teal": "#4ECDC4",
+    "cream": "#FFF8F5",
+    "ink": "#1A1A1A",
+    "muted": "#6B6B6B",
+    "white": "#FFFFFF",
+    "gradient": { "angle": 135, "stops": ["#FF6B4A", "#FF8C42", "#FFB347"] }
+  },
+  "logo": {
+    "arch": { "direction": "left-to-right", "stops": ["#FD7A35", "#FEA33D"] },
+    "hill": { "direction": "left-to-right", "stops": ["#077072", "#079A97", "#0CA3A0"] },
+    "path": "#FFFFFF"
+  },
+  "splashAndEndCards": {
+    "splashCream": "#FCF4EC",
+    "splashCreamLight": "#FFF9F3",
+    "pillOrange": "#F26A2E"
+  }
+}
